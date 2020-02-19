@@ -1,0 +1,14 @@
+{
+  "main.css": "/static/css/main.chunk.css",
+  "main.js": "/static/js/main.chunk.js",
+  "main.js.map": "/static/js/main.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.js",
+  "runtime~main.js.map": "/static/js/runtime~main.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.077b5cf4306ed2a4f12c0abd390e5f1c.js": "/precache-manifest.077b5cf4306ed2a4f12c0abd390e5f1c.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.chunk.css.map": "/static/css/main.chunk.css.map",
+  "static/media/argon-react.png": "/static/media/argon-react.f38ddea9.png",
+  "static/media/all.min.css": "/static/media/fa-solid-900.fb493903.woff2",
+  "static/media/nucleo.css": "/static/media/nucleo-icons.f82ec6ba.ttf"
+}
